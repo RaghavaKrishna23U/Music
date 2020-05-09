@@ -13,6 +13,11 @@ for playing a scale. These notes have a repetitive pattern in terms of their app
 - `cd Music`
 - `python chords.py "key" "scale"`
 
+## Supported scales
+
+- Major
+- Minor
+
 Example:
 
 `python chords.py G# Minor`
