@@ -5,11 +5,13 @@ for playing a scale. These notes have a repetitive pattern in terms of their app
 
 ## Environment requirements
 
-All you need is python 3 (>=3.6) configured
+- Git
+- Python(>=3.6)
 
 ## How to run the code
-
-`python chords.py key scale`
+- `git clone https://github.com/RaghavaKrishna23U/Music.git`
+- `cd Music`
+- `python chords.py "key" "scale"`
 
 Example:
 
